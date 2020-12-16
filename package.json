@@ -24,6 +24,8 @@
     "dotenv": "^8.2.0",
     "erlpack": "github:discord/erlpack",
     "got": "^11.8.1",
+    "sqlite": "^4.0.18",
+    "sqlite3": "^5.0.0",
     "utf-8-validate": "^5.0.3",
     "zlib-sync": "^0.1.7"
   }
