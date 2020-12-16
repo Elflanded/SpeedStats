@@ -1,0 +1,30 @@
+{
+  "name": "SpeedStats",
+  "version": "1.0.0",
+  "description": "A discord bot used to track data from speedrun.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elflanded/SpeedStats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elflanded/SpeedStats/issues"
+  },
+  "homepage": "https://github.com/Elflanded/SpeedStats#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.2",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "dotenv": "^8.2.0",
+    "erlpack": "github:discord/erlpack",
+    "got": "^11.8.1",
+    "utf-8-validate": "^5.0.3",
+    "zlib-sync": "^0.1.7"
+  }
+}
